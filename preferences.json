@@ -1,0 +1,49 @@
+{
+  "language": "",
+  "configVersion": null,
+  "customFonts": [
+    {
+      "name": "Space Grotesk",
+      "url": "https://fonts.googleapis.com/css?family=Space+Grotesk"
+    }
+  ],
+  "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
+  "customLibraries": [
+    "L.scratchpad"
+  ],
+  "plugins": [],
+  "recentColors": [
+    "080808",
+    "FFFFFF",
+    "000000",
+    "00060A",
+    "645D93",
+    "38355C",
+    "181728",
+    "423D79",
+    "151228",
+    "none",
+    "#e3e1ec"
+  ],
+  "formatWidth": 240,
+  "createTarget": false,
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 900,
+    "height": 1600
+  },
+  "search": true,
+  "showStartScreen": true,
+  "gridColor": "#6661a8",
+  "darkGridColor": "#38355C",
+  "autosave": true,
+  "resizeImages": null,
+  "openCounter": 10,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": false,
+  "ui": "",
+  "darkMode": true,
+  "pages": true
+}
